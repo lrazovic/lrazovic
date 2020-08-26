@@ -8,6 +8,6 @@ I'm an Engineering in Computer Science Student at [Università degli Studi di Ro
 - 💻 All of my projects are available  [here](https://github.com/lrazovic?tab=repositories)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=css,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lrazovic&show_icons=true)
