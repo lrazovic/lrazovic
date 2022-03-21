@@ -4,7 +4,7 @@
 </div>
 
 
-- 🇮🇹 I'm an Engineering in Computer Science Student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) Italy
+- 🇮🇹 I'm an Engineering in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) Italy
 - 💻 I’m currently working and researching on Blockchain, focusing on Ethereum and Polkadot.
 - 📓 I’m currently learning about public blockchain, cryptocurrency, decentralized finance and decentralized applications.
 - 📬 How to reach me:
@@ -25,7 +25,7 @@
 * [`decode-git-object`](https://github.com/lrazovic/decode-git-object): A small utility that decodes git objects, mainly useful for forensics, recovery, and CTF challenges.
 * [`rust_rsa`](https://github.com/lrazovic/rust_rsa): A simple RSA implementation in Rust developed to anchor theoretical concepts behind RSA.
 * [`rusty-mqtt`](https://github.com/lrazovic/rusty-mqtt): A Rust bridge between the MQTT broker of TTN and ThingsBoard.
-* [`rust-hmac-sha`](https://github.com/lrazovic/rust-hmac-sha): A pure Rust implementation of the Hash-based Message Authentication Code Algoritm for SHA-{1,2,3}. This project can be seen as an interface/wrapper for the RustCrypto crate, focusing on user/developer ease of use. Works in a #![no_std] environment.
+* [`rust-hmac-sha`](https://github.com/lrazovic/rust-hmac-sha): A pure Rust implementation of the Hash-based Message Authentication Code Algoritm for SHA-{1,2,3}. This project can be seen as an interface/wrapper for the RustCrypto crate, focusing on user/developer ease of use. Works in a `#![no_std]` environment.
 
 
 <div align="center">
