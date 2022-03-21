@@ -34,9 +34,8 @@
 ## Favourite quotes
 > Building software systems is a constant wrestling match between ideals, pragmatism, aesthetics, and time. Reality never quite matches the ideal. Nothing is ever perfect, but things can be good.
 > 
-> Rob Habermeier, Polkadot founder
+> -> <cite> Rob Habermeier, Polkadot founder</cite>
 
 > Be curious, not judgmental
 > 
-> (Not) Walt Whitman 
-
+> -> <cite> (Not) Walt Whitman </cite>
