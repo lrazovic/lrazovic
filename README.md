@@ -15,13 +15,17 @@
    <a href="https://www.instagram.com/lrazovic"><img src="https://img.shields.io/badge/instagram-@lrazovic-%23E4415F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="instagram badge"></a>
 </div>
 
----
-> Building software systems is a constant wrestling match between ideals, pragmatism, aesthetics, and time. Reality never quite matches the ideal. Nothing is ever perfect, but things can be good.
-> 
-> Rob Habermeier, Polkadot founder
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=html"> 
   <img src="https://github-readme-stats.vercel.app/api?username=lrazovic&show_icons=true"> 
 </div>
+
+## Favourite quotes
+> Building software systems is a constant wrestling match between ideals, pragmatism, aesthetics, and time. Reality never quite matches the ideal. Nothing is ever perfect, but things can be good.
+> 
+> Rob Habermeier, Polkadot founder
+
+> Be curious, not judgmental
+> 
+> (Not) Walt Whitman 
+
