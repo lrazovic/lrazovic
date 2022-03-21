@@ -44,4 +44,4 @@
 
 ---
 
-*Curious about the origin of my surname? My grandfather was Croatian, from a nearby island [Split](https://en.wikipedia.org/wiki/Split,_Croatia) (/ˈsplɪt/, as in the English word split)*
+*Curious about the origin of my surname? My grandfather was Croatian, from an island near [Split](https://en.wikipedia.org/wiki/Split,_Croatia) (/ˈsplɪt/, as in the English word split)*
