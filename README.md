@@ -41,3 +41,7 @@
 > Be curious, not judgmental
 > 
 > -> <cite> (Not) Walt Whitman </cite>
+
+---
+
+*Curious about the origin of my surname? My grandfather was Croatian, from a nearby island [Split](https://en.wikipedia.org/wiki/Split,_Croatia) (/ˈsplɪt/, as in the English word split)*
