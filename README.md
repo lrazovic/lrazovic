@@ -7,7 +7,9 @@
 - 🇮🇹 I'm an Engineering in Computer Science Student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) Italy
 - 💻 I’m currently working and researching on Blockchain, focusing on Ethereum and Polkadot.
 - 📓 I’m currently learning about public blockchain, cryptocurrency, decentralized finance and decentralized applications.
-- 📬 How to reach me: Email me at lrazovic[at]gmail.com
+- 📬 How to reach me:
+   - Email: lrazovic[at]gmail.com
+   - Telegram: [at]lrazovic
 
 <div align="center">
    <a href="https://twitter.com/lrazovic"><img src="https://img.shields.io/badge/twitter-@lrazovic-%231FA1F1?style=flat&amp;logo=twitter&amp;logoColor=white" alt="twitter badge"></a>
