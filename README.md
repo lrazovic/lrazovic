@@ -29,8 +29,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=html"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lrazovic&show_icons=true"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=html&layout=compact"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lrazovic&show_icons=true&count_private=true"> 
 </div>
 
 ## Favourite quotes
