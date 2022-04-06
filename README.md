@@ -17,16 +17,19 @@
    <a href="https://www.instagram.com/lrazovic"><img src="https://img.shields.io/badge/instagram-@lrazovic-%23E4415F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="instagram badge"></a>
 </div>
 
-## Projects I liked best
+## Projects I liked most
 * [News Reader](https://github.com/lrazovic/advanced_programming): An RSS feed reader developed together with 4 other colleagues. I tried to bring the DevOps philosophy into the team and I was mainly responsible for the backend and the system architecture. A microservice application using Python with FastAPI with services communicating with REST and JSON-RPC all orchestrated using Docker Compose/Swarm.
-* [NFT Swap](https://github.com/Andrea98Palermo/NFTswap): An NFT marketplace (developed together with 2 other colleagues) where instead of selling and buying NFT you can safely exchange them. The idea convinced us and also convinced several professors, so we decided to continue and founded the 
+* 🦄 [NFT Swap](https://github.com/Andrea98Palermo/NFTswap): An NFT marketplace (developed together with 2 other colleagues) where instead of selling and buying NFT you can safely exchange them. The idea convinced us and also convinced several professors, so we decided to continue and founded the 
 [Non-fungible-Guys](https://github.com/Non-fungible-Guys)  organisation, where we are continuing the development of both the contract (in Solidity) and the Frontend (React + Next.js). At the moment we are working on several EVM testnets and the frontend is on Cloudflare Pages.
-* [OOTP (Open One-time Password)](https://github.com/odroe/ootp): A library (available for both Typescript and Rust) plus a frontend (in Flutter) to generate HOTP (HMAC-based One-time Password) and TOTP (Time-based One-time Password). 
+* [OOTP (Open One-time Password)](https://github.com/odroe/ootp): A library (available for both Typescript and Rust) plus a frontend (in Flutter) to generate HOTP (HMAC-based One-time Password) and TOTP (Time-based One-time Password).
+* 🦄 [`solana_pay`](https://github.com/lrazovic/solana-pay): Next.js store that supports payments using the Solana blockchain. Exploiting Solana Pay!
+* 🦄 [`buildspace_solana`](https://github.com/lrazovic/buildspace_solana): Smart contract and related React frontend to save your favorite GIFs on Solana
 * [`rusty-mqtt`](https://github.com/lrazovic/rusty-mqtt): A Rust bridge between the MQTT broker of [The Things Network](https://www.thethingsnetwork.org/) and [ThingsBoard](https://thingsboard.io/).
 * [`rust_rsa`](https://github.com/lrazovic/rust_rsa): A simple RSA implementation in Rust developed to anchor theoretical concepts behind RSA.
 * [`rust-hmac-sha`](https://github.com/lrazovic/rust-hmac-sha): A pure Rust implementation of the Hash-based Message Authentication Code Algoritm for SHA-{1,2,3}. This project can be seen as an interface/wrapper for the RustCrypto crate, focusing on user/developer ease of use. Works in a `#![no_std]` environment.
 * [`decode-git-object`](https://github.com/lrazovic/decode-git-object): A small Rust utility that decodes git objects, mainly useful for forensics, recovery, and [CTF challenges](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) 🚩.
 
+*🦄 = blockcahin related project*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=html&layout=compact"> 
@@ -41,7 +44,7 @@
 * Cryptography and Network Security: Principles and Practice by William Stallings
 * Engineering Software As a Service: An Agile Approach Using Cloud Computing by Armando Fox and David A. Patterson
 
-📚 = Currently reading
+*📚 = currently reading*
 
 ## Favourite quotes
 > Building software systems is a constant wrestling match between ideals, pragmatism, aesthetics, and time. Reality never quite matches the ideal. Nothing is ever perfect, but things can be good.
