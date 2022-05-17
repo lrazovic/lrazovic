@@ -38,7 +38,7 @@
 
 ## Reading list
 * 📚 A Philosophy of Software Design by John Ousterhout
-* 📚 Cracking the Coding Interview, 6th Edition
+* 📚 Cracking the Coding Interview, 6th Edition by Gayle Laakmann McDowell
 * Zero To Production In Rust by Luca Palmieri
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition by Dave Thomas and Andy Hunt
