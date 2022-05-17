@@ -5,8 +5,8 @@
 
 
 - 🇮🇹 I'm an Engineering in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) Italy
-- 💻 I’m currently working and researching on Blockchain, focusing on Ethereum and Polkadot.
-- 📓 I’m currently learning about Infrastructure as a Code (IaC), DevOps and MLOps, 
+- 💻 I’m currently working and researching on Blockchain, focusing on zero-knowledge proof on Ethereum and EVM-compatible chains.
+- 📓 I’m currently learning about Software Engineering, Infrastructure as a Code (IaC) and DevOps.
 - 📬 How to reach me:
    - Email: lrazovic[at]gmail.com
    - Telegram: [at]lrazovic
