@@ -5,8 +5,7 @@
 
 
 - 🇮🇹 I'm an Engineering in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) Italy
-- 💻 I’m currently working and researching on Blockchain, focusing on zero-knowledge proof on Ethereum and EVM-compatible chains.
-- 📓 I’m currently learning about Software Engineering, Infrastructure as a Code (IaC) and DevOps.
+- 💻 I’m currently working and researching on Blockchain, focusing on Substrate based chains.
 - 📬 How to reach me:
    - Email: lrazovic[at]gmail.com
    - Telegram: [at]lrazovic
@@ -18,9 +17,9 @@
 </div>
 
 ## Projects I liked most
+*🦄 = blockcahin related project*
 * [News Reader](https://github.com/lrazovic/advanced_programming): An RSS feed reader developed together with 4 other colleagues. I tried to bring the DevOps philosophy into the team and I was mainly responsible for the backend and the system architecture. A microservice application using Python with FastAPI with services communicating with REST and JSON-RPC all orchestrated using Docker Compose/Swarm.
-* 🦄 [NFT Swap](https://github.com/Andrea98Palermo/NFTswap): An NFT marketplace (developed together with 2 other colleagues) where instead of selling and buying NFT you can safely exchange them. The idea convinced us and also convinced several professors, so we decided to continue and founded the 
-[Non-fungible-Guys](https://github.com/Non-fungible-Guys)  organisation, where we are continuing the development of both the contract (in Solidity) and the Frontend (React + Next.js). At the moment we are working on several EVM testnets and the frontend is on Cloudflare Pages.
+* 🦄 [NFT Swap](https://github.com/Andrea98Palermo/NFTswap): An NFT marketplace focused on Atomic Swaps. The contract is in Solidity and the Frontend is in Next.js. At the moment we are working on several EVM testnets and the frontend is hosted on Cloudflare Pages.
 * [OOTP (Open One-time Password)](https://github.com/odroe/ootp): A library (available for both Typescript and Rust) plus a frontend (in Flutter) to generate HOTP (HMAC-based One-time Password) and TOTP (Time-based One-time Password).
 * 🦄 [`solana_pay`](https://github.com/lrazovic/solana-pay): Next.js store that supports payments using the Solana blockchain. Exploiting Solana Pay!
 * 🦄 [`buildspace_solana`](https://github.com/lrazovic/buildspace_solana): Smart contract and related React frontend to save your favorite GIFs on Solana
@@ -29,7 +28,6 @@
 * [`rust-hmac-sha`](https://github.com/lrazovic/rust-hmac-sha): A pure Rust implementation of the Hash-based Message Authentication Code Algoritm for SHA-{1,2,3}. This project can be seen as an interface/wrapper for the RustCrypto crate, focusing on user/developer ease of use. Works in a `#![no_std]` environment.
 * [`decode-git-object`](https://github.com/lrazovic/decode-git-object): A small Rust utility that decodes git objects, mainly useful for forensics, recovery, and [CTF challenges](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) 🚩.
 
-*🦄 = blockcahin related project*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrazovic&hide=html&layout=compact"> 
