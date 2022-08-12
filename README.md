@@ -17,16 +17,28 @@
 </div>
 
 ## Projects I liked most
-*🦄 = blockcahin related project*
+
+<div align="center">
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0pky">🦄 = Blockchain related project</td>
+    <td class="tg-0pky">🦀 = Rust related project</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+* 🦄🦀 [SimplePool](https://github.com/lrazovic/lrazovic_pallet) and a [Substrate Node](https://github.com/lrazovic/substrate-node): This project aims to create a pallet to manage a liquidity pool. A user can stake a token (e.g. a DOT) and receive a liquid token (e.g. LDOT).
 * [News Reader](https://github.com/lrazovic/advanced_programming): An RSS feed reader developed together with 4 other colleagues. I tried to bring the DevOps philosophy into the team and I was mainly responsible for the backend and the system architecture. A microservice application using Python with FastAPI with services communicating with REST and JSON-RPC all orchestrated using Docker Compose/Swarm.
 * 🦄 [NFT Swap](https://github.com/Andrea98Palermo/NFTswap): An NFT marketplace focused on Atomic Swaps. The contract is in Solidity and the Frontend is in Next.js. At the moment we are working on several EVM testnets and the frontend is hosted on Cloudflare Pages.
-* [OOTP (Open One-time Password)](https://github.com/odroe/ootp): A library (available for both Typescript and Rust) plus a frontend (in Flutter) to generate HOTP (HMAC-based One-time Password) and TOTP (Time-based One-time Password).
+* 🦀 [OOTP (Open One-time Password)](https://github.com/odroe/ootp): A library (available for both Typescript and Rust) plus a frontend (in Flutter) to generate HOTP (HMAC-based One-time Password) and TOTP (Time-based One-time Password).
 * 🦄 [`solana_pay`](https://github.com/lrazovic/solana-pay): Next.js store that supports payments using the Solana blockchain. Exploiting Solana Pay!
-* 🦄 [`buildspace_solana`](https://github.com/lrazovic/buildspace_solana): Smart contract and related React frontend to save your favorite GIFs on Solana
-* [`rusty-mqtt`](https://github.com/lrazovic/rusty-mqtt): A Rust bridge between the MQTT broker of [The Things Network](https://www.thethingsnetwork.org/) and [ThingsBoard](https://thingsboard.io/).
-* [`rust_rsa`](https://github.com/lrazovic/rust_rsa): A simple RSA implementation in Rust developed to anchor theoretical concepts behind RSA.
-* [`rust-hmac-sha`](https://github.com/lrazovic/rust-hmac-sha): A pure Rust implementation of the Hash-based Message Authentication Code Algoritm for SHA-{1,2,3}. This project can be seen as an interface/wrapper for the RustCrypto crate, focusing on user/developer ease of use. Works in a `#![no_std]` environment.
-* [`decode-git-object`](https://github.com/lrazovic/decode-git-object): A small Rust utility that decodes git objects, mainly useful for forensics, recovery, and [CTF challenges](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) 🚩.
+* 🦄🦀 [`buildspace_solana`](https://github.com/lrazovic/buildspace_solana): Smart contract and related React frontend to save your favorite GIFs on Solana
+* 🦀 [`rusty-mqtt`](https://github.com/lrazovic/rusty-mqtt): A Rust bridge between the MQTT broker of [The Things Network](https://www.thethingsnetwork.org/) and [ThingsBoard](https://thingsboard.io/).
+* 🦀 [`rust_rsa`](https://github.com/lrazovic/rust_rsa): A simple RSA implementation in Rust developed to anchor theoretical concepts behind RSA.
+* 🦀 [`rust-hmac-sha`](https://github.com/lrazovic/rust-hmac-sha): A pure Rust implementation of the Hash-based Message Authentication Code Algoritm for SHA-{1,2,3}. This project can be seen as an interface/wrapper for the RustCrypto crate, focusing on user/developer ease of use. Works in a `#![no_std]` environment.
+* 🦀 [`decode-git-object`](https://github.com/lrazovic/decode-git-object): A small Rust utility that decodes git objects, mainly useful for forensics, recovery, and [CTF challenges](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) 🚩.
 
 
 <div align="center">
@@ -35,13 +47,13 @@
 </div>
 
 ## Reading list
-* 📚 A Philosophy of Software Design by John Ousterhout
-* 📚 Cracking the Coding Interview, 6th Edition by Gayle Laakmann McDowell
-* Zero To Production In Rust by Luca Palmieri
-* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-* The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition by Dave Thomas and Andy Hunt
-* Cryptography and Network Security: Principles and Practice by William Stallings
-* Engineering Software As a Service: An Agile Approach Using Cloud Computing by Armando Fox and David A. Patterson
+* 📚 **A Philosophy of Software Design** by *John Ousterhout*
+* 📚 **Cracking the Coding Interview, 6th Edition** by *Gayle Laakmann McDowell*
+* **Zero To Production In Rust** by *Luca Palmieri*
+* **Clean Code: A Handbook of Agile Software Craftsmanship** by *Robert C. Martin*
+* **The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition** by *Dave Thomas and Andy Hunt*
+* **Cryptography and Network Security: Principles and Practice** by *William Stallings*
+* **Engineering Software As a Service: An Agile Approach Using Cloud Computing** by *Armando Fox and David A. Patterson*
 
 *📚 = currently reading*
 
@@ -56,4 +68,4 @@
 
 ---
 
-*Curious about the origin of my surname? My grandfather was Croatian, from an island near [Split](https://en.wikipedia.org/wiki/Split,_Croatia) (/ˈsplɪt/, as in the English word split)* 🇭🇷
+*Curious about the origin of my surname? My grandfather was Croatian, from an island near [Split](https://en.wikipedia.org/wiki/Split,_Croatia) (/ˈsplɪt/, as in the English word "split")* 🇭🇷
