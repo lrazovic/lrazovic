@@ -4,8 +4,9 @@
 </div>
 
 
-- 🇮🇹 I'm an Engineering in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) Italy
-- 💻 I’m currently working and researching on Blockchain, focusing on Substrate based chains.
+- 🇨🇭 Blockchain Engineer @ [Polimec](https://www.polimec.org/)
+- 💻 Graduated from the first edition of the Polkadot Blockchain Academy @ Cambridge [proof](https://singular.app/collectibles/statemine/15/5)
+- 🇮🇹 I'm a MSc in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) 
 - 📬 How to reach me:
    - Email: lrazovic[at]gmail.com
    - Telegram: [at]lrazovic
@@ -32,7 +33,6 @@
 </div>
 
 * 🦄🦀 [SimplePool](https://github.com/lrazovic/lrazovic_pallet) and a [Substrate Node](https://github.com/lrazovic/substrate-node): This project aims to create a pallet to manage a liquidity pool. A user can stake a token (e.g. a DOT) and receive a liquid token (e.g. LDOT).
-* [News Reader](https://github.com/lrazovic/advanced_programming): An RSS feed reader developed together with 4 other colleagues. I tried to bring the DevOps philosophy into the team and I was mainly responsible for the backend and the system architecture. A microservice application using Python with FastAPI with services communicating with REST and JSON-RPC all orchestrated using Docker Compose/Swarm.
 * 🦄 [NFT Swap](https://github.com/Andrea98Palermo/NFTswap): An NFT marketplace focused on Atomic Swaps. The contract is in Solidity and the Frontend is in Next.js. At the moment we are working on several EVM testnets and the frontend is hosted on Cloudflare Pages.
 * 🦀 [OOTP (Open One-time Password)](https://github.com/odroe/ootp): A library (available for both Typescript and Rust) plus a frontend (in Flutter) to generate HOTP (HMAC-based One-time Password) and TOTP (Time-based One-time Password).
 * 🦄 [`solana_pay`](https://github.com/lrazovic/solana-pay): Next.js store that supports payments using the Solana blockchain. Exploiting Solana Pay!
@@ -49,7 +49,7 @@
 </div>
 
 ## Reading list
-* **Engineering Management for the Rest of Us** by *Sarah Drasner*
+* 📚 **Engineering Management for the Rest of Us** by *Sarah Drasner*
 * **A Philosophy of Software Design** by *John Ousterhout*
 * **Cracking the Coding Interview, 6th Edition** by *Gayle Laakmann McDowell*
 * **Zero To Production In Rust** by *Luca Palmieri*
