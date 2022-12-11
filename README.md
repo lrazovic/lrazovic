@@ -9,6 +9,8 @@
 - 📬 How to reach me:
    - Email: lrazovic[at]gmail.com
    - Telegram: [at]lrazovic
+   - Twitter [at]lrazovic
+   - Mastodon [at]lrazovic[at]mastodon.social
 
 <div align="center">
    <a href="https://twitter.com/lrazovic"><img src="https://img.shields.io/badge/twitter-@lrazovic-%231FA1F1?style=flat&amp;logo=twitter&amp;logoColor=white" alt="twitter badge"></a>
@@ -47,8 +49,9 @@
 </div>
 
 ## Reading list
-* 📚 **A Philosophy of Software Design** by *John Ousterhout*
-* 📚 **Cracking the Coding Interview, 6th Edition** by *Gayle Laakmann McDowell*
+* **Engineering Management for the Rest of Us** by *Sarah Drasner*
+* **A Philosophy of Software Design** by *John Ousterhout*
+* **Cracking the Coding Interview, 6th Edition** by *Gayle Laakmann McDowell*
 * **Zero To Production In Rust** by *Luca Palmieri*
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by *Robert C. Martin*
 * **The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition** by *Dave Thomas and Andy Hunt*
