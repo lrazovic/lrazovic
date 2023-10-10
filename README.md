@@ -4,10 +4,10 @@
 </div>
 
 
-- 🇨🇭 Blockchain Engineer @ [Polimec](https://www.polimec.org/)
-- 💻 Graduated from the first edition of the Polkadot Blockchain Academy @ Cambridge [proof](https://singular.app/collectibles/statemine/15/5)
-- 🇮🇹 I'm a MSc in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) 
-- 📬 How to reach me:
+- Software Engineer @ [Polimec](https://www.polimec.org/)
+- Graduated from the first edition of the Polkadot Blockchain Academy @ Cambridge [proof](https://singular.app/collectibles/statemine/15/5)
+- I'm a MSc in Computer Science student at [Università degli Studi di Roma "La Sapienza"](https://www.uniroma1.it/en/pagina-strutturale/home) 
+- How to reach me:
    - Email: lrazovic[at]gmail.com
    - Telegram: [at]lrazovic
    - Twitter [at]lrazovic
